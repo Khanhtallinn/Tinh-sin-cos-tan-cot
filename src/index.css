@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+  font-size: 36px;
+  font-family: 'Open Sans';
+}
+
+.ip_vl {
+  padding: 8px;
+}
+
+.numip {
+  border: solid 1px black;
+  width: 110px;
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.unip {
+  border: solid 1px black;
+  padding: 5px;
+  width: 130px;
+  border-radius: 10px;
+  margin-left: 0.2vh;
+  text-align: center;
+}
+
+span {
+  display: block;
+  padding: 3px;
+  text-align: left;
+}
+
+.input {
+  border: black solid 1px;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: fit-content;
+  padding: 8px;
+  margin-top: -5vh;
+}
+
+.a {
+  margin: 15px 10px;
+  border: solid 1px black;
+  width: fit-content;
+  padding-left: 5px;
+  padding-right: 5px;
+  display: grid;
+}
+
+.text {
+  margin: 8px;
+  text-align: left;
+}
+
+.shape {
+  zoom: 130%;
+  height: auto;
+  margin-top: -4vh;
+}
+
+div {
+  border-radius: 2vh;
+}
+
+.box1 {
+  display: flex;
+  justify-content: center;
+  zoom: 36%;
+  margin-top: -15vh;
+}
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  margin-top: -20px;
+}
+
+.box3 {
+  display: flex;
+  justify-content: center;
+}
